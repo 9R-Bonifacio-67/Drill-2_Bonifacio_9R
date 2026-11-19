@@ -1,0 +1,16 @@
+.background {
+background: fixed;
+background-size: cover;
+}
+footer {
+    background-color: rgb(64, 210, 251);
+    background-size: cover;
+    padding: 40px;
+}
+h6 {
+    text-shadow: 10px;
+    color: black;
+}
+img{
+    border-radius: 10px;
+}
